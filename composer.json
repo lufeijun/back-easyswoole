@@ -1,0 +1,12 @@
+{
+    "require": {
+        "easyswoole/easyswoole": "3.x",
+        "easyswoole/orm": "^1.4",
+        "easyswoole/jwt": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
